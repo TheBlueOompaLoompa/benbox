@@ -1,0 +1,3 @@
+[submodule "postgrest-rs"]
+	path = postgrest-rs
+	url = git@github.com:supabase-community/postgrest-rs.git
